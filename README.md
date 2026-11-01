@@ -6,7 +6,7 @@ Aplicació per monitoritzar i optimitzar el consum energètic de llars i emprese
 
 
 ## Estat del projecte
-🚧 En desenvolupament
+✅ Versió 1.0
 
 
 ## Enllaços
