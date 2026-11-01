@@ -38,7 +38,4 @@ Aplicació per monitoritzar i optimitzar el consum energètic de llars i emprese
 
 - Jordi Ferrer
 
-### Equip de desenvolupament
 
-- Paula Ouro
-- Lídia Roche
